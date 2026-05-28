@@ -1,4 +1,4 @@
-![Title](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=LyraStellate)
+![Title](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=LyraStellate)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyrastellate&label=Profile%20views&color=0e75b6&style=flat" alt="lyrastellate" /> </p>
 
