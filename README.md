@@ -4,6 +4,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/twitter/url?url=https://twitter.com/lyrastellate&style=social&logo=x&label=(Twitter)%20%20%40lyrastellate&link=https%3A%2F%2Ftwitter.com%2Flyrastellate" alt="Twitter" style="margin-right:8px;" />
+  <img src="https://img.shields.io/twitter/url?url=https://twitter.com/lyrasubllate&style=social&logo=x&label=(Twitter(sub)%20%20%40lyrasubllate&link=https%3A%2F%2Ftwitter.com%2Flyrasubllate" alt="Twitter" style="margin-right:8px;" />
   <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Flyrastellate&style=social&logo=discord&label=Discord&link=http%3A%2F%2Fdiscordapp.com%2Fusers%2F1360811471230996623" alt="Discord" />
 </p>
 
